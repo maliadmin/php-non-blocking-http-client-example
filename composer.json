@@ -1,0 +1,12 @@
+{
+    "name": "rakuten/reactphp-pointclub",
+    "description": "Demo for reactphp performance improvement",
+    "type": "project",
+    "require": {
+        "react/promise": "^2.8",
+        "react/http": "^1.3",
+        "clue/block-react": "^1.4",
+        "ext-json": "*"
+    },
+    "license": "Rakuten Group, Inc."
+}
