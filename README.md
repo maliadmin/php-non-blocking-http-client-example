@@ -12,12 +12,9 @@ composer install
 php server.php 0.0.0.0:8000
 ```
 
-## HTTP Client Test
-```shell
-php index.php
-```
 
 ### Client Example
+
 ```php
 use Clue\React\Block;
 
@@ -57,6 +54,11 @@ foreach ($responses as $response) {
 echo $use;
 echo PHP_EOL;
 ```
+
+## HTTP Client Execution
+```shell
+php index.php
+``
 
 #### output
 ```text:
